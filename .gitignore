@@ -1,0 +1,5 @@
+*.sql
+.env
+.vscode/
+.idea/
+Thumbs.db
